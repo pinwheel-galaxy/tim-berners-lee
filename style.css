@@ -1,0 +1,60 @@
+.t{
+    width: 300px;
+    border-radius: 60%;
+}
+ body{
+     text-align:center;
+     margin:0;
+     padding-top:  800px; 
+
+ }
+  h1{
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#f2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+.line{
+    width:100%;
+    height: 5px;
+    background-color: black;
+}
+#rt{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(rgb(125, 215, 219) 0%,rgb(0, 255, 166)100%) ;
+    width: 100%;
+    height: 100%;
+    display:table;
+}
+.rtn{
+    display:table-cell;
+    vertical-align: middle;
+}
+ul {
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    z-index: 1;
+    right: 30px;
+    cursor: pointer;
+}
+li {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.e {
+    font-family: 'Anton', sans-serif;
+}
+#q{
+    font-family: 'Varela Round', sans-serif;
+}
